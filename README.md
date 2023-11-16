@@ -5,4 +5,4 @@
 
 ## Dependent bugs
 
-- [MC-265772](https://bugs.mojang.com/browse/MC-265772) "maxCommandChainLength" can be bypassed by multiple modifier stages
+- [MC-265772](https://bugs.mojang.com/browse/MC-265772) A command with multiple redirect modifiers can ignore "maxCommandChainLength"
