@@ -12,6 +12,7 @@
 - <samp>23w44a</samp>
 - <samp>23w45a</samp>
 - <samp>23w46a</samp>
+- <samp>1.20.3-pre1</samp>
 
 ## Dependent bugs
 
