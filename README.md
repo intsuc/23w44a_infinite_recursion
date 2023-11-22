@@ -1,5 +1,8 @@
 # <samp>23w44a_infinite_recursion</samp>
 
+> [!NOTE]
+> Fixed in <samp>1.20.3-pre2</samp>.
+
 > [!CAUTION]
 > These data packs do not halt once loaded!
 
